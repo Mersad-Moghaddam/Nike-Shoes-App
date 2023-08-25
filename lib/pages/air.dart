@@ -55,7 +55,7 @@ class _AirState extends State<Air> {
                 color: Colors.black,
               ),
               title: const Text(
-                "Setting2",
+                "Setting",
                 style:
                     TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
               ),
